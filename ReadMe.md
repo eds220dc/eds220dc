@@ -1,5 +1,5 @@
 # 💫 About Me | Sobre mim:
-Sou estudante de back end.<br>Estou cursando uma graduação de Sistemas de Informação (Uniasselvi) e <br> estou a procura de conhecimento. 
+Sou estudante de back end.<br>Estou cursando uma graduação de Sistemas de Informação (Uniasselvi) e estou a procura de aperfeiçoamento de conhecimento. 
 
 
 ## 🌐 Socials:
